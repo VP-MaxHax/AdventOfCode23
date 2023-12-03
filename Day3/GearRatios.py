@@ -48,12 +48,6 @@ class CubeCounter:
         print(self.numbers_list)
         return sum(self.numbers_list)
 
-
-
-
-            
-
-
 if __name__ == "__main__":
     numb = CubeCounter()
     print(numb.matrise_runner())
