@@ -1,4 +1,4 @@
-class CubeCounter: 
+class BoatRacer: 
 
     def __init__(self):
         self.scorecard = []
@@ -23,7 +23,7 @@ class CubeCounter:
         return final_tally
 
 if __name__ == "__main__":
-    numb = CubeCounter()
+    numb = BoatRacer()
     times1 = [35, 93, 73, 66]
     distance1 = [212, 2060, 1201, 1044]
     times2 = [35937366]
